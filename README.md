@@ -1,2 +1,3 @@
-Text detection and recognition\n
+Text detection and recognition
+
 Final project for Abto Software summer camp
